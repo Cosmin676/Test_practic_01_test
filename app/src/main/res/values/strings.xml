@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="sum">Total Sum</string>
+    <string name="swap">Swap Screen</string>
+</resources>
